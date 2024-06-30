@@ -1,3 +1,3 @@
 # OTUSbasic-course
 
-1st changes for HW1
+2nd changes for HW1: README extended on branch hw1
