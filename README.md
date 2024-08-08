@@ -1,3 +1,6 @@
 # OTUSbasic-course
 
-1st changes for HW1
+changes for HW1
+
+# Это общий репозиторий для всех домашних работ курса Otus C++Basic
+Реализация каждого ДЗ расположена в отдельной ветви
